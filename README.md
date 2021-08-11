@@ -1,5 +1,4 @@
-# all-the-things
-
+# all-our-things
 ## Your task for today!
 
 Each member of your team should add the following items to this project, following the GitHub Group Workflow Document:
